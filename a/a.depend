@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1598127352 source:c:\users\arm allidina\desktop\a\a.cc
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<cstdlib>
+	<time.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1620513184 source:c:\users\arm allidina\desktop\new folder\a\a.cc
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<cstdlib>
+	<time.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1645065417 source:c:\users\arm allidina\documents\1\a\a.cc
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<cstdlib>
+	<time.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
